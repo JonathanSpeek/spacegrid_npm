@@ -1,6 +1,6 @@
 {
   "name": "spacegrid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A basic, responsive grid layout to help you get started on your next project.",
   "main": "index.js",
   "scripts": {
